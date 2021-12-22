@@ -2,7 +2,7 @@
 <br />
 
 ## Intro.
-  - Caleb D. Duff aka TheLastGoodMan is a genial dude who loves the creative process of turning beautiful ideas to valued-products, and as well as creating value in the tech ecosystem by volunteering and contributing to open source development. 
+  - Caleb D. Duff aka Duffigoogle is a genial dude who loves the creative process of turning beautiful ideas to valued-products, and as well as creating value in the tech ecosystem by volunteering and contributing to open source development. 
 
 ## My short brief
 
