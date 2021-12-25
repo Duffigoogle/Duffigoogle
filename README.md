@@ -7,7 +7,7 @@
 ## My short brief
 
 - 🔭 I’m currently working on ... a project called TRAV
-- 🌱 I’m currently learning ... Vuejs
+- 🌱 I’m currently learning ... React Native and Web3
 - 👯 I’m looking to collaborate on ... Creative and solution-based web projects.
 - 🤔 I’m looking for help with ... A smooth start into a Blockchain career.
 - 💬 Ask me about ... Frontend Web Development
