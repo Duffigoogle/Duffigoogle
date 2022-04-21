@@ -2,18 +2,21 @@
 <br />
 
 ## Intro.
-  - Caleb D. Duff aka Duffigoogle is a genial dude who loves the creative process of turning beautiful ideas to valued-products, and as well as creating value in the tech ecosystem by volunteering and contributing to open source development. 
+  - Ini D. Duff <Caleb/> aka Duffigoogle is a genial dude who loves the creative process of turning beautiful ideas to valued-products, and as well as creating value in the tech ecosystem by volunteering and contributing to open source development. 
 
 ## My short brief
 
 - 🔭 I’m currently working on ... a project called TRAV
 - 🌱 I’m currently learning ... C, Solidity and Web3.
-- 👯 I’m looking to collaborate on ... Creative and solution-based web projects.
+- 👯 I’m looking to collaborate on ... Creative and solution-based projects.
 - 🤔 I’m looking for help with ... A smooth start into a Blockchain career.
 - 💬 Ask me about ... Frontend Web Development, Web3, DApps. 
 - 📫 How to reach me: ... duffdev001@gmail.com
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... I am probably The Last Good Man.
+- ⚡ Fun facts: ... 
+-- *```I am probably The Last Good Man.```
+-- *```I try to leave every bit of code I touch more readable, modular, performant and accessible than I found it.```
+
 
 ### Technologies I have worked with:
 
