@@ -14,8 +14,8 @@
 - 📫 How to reach me: ... duffdev001@gmail.com
 - 😄 Pronouns: ... He
 - ⚡ Fun facts: ... 
--- *```I am probably The Last Good Man.```
--- *```I try to leave every bit of code I touch more readable, modular, performant and accessible than I found it.```
+* &nbsp;&nbsp;&nbsp;&nbsp; *[i]* ```I am probably The Last Good Man.``` 
+* &nbsp;&nbsp;&nbsp;&nbsp; *[ii]* ```I try to leave every bit of code I touch more readable, modular, performant and accessible than I found it.```*
 
 
 ### Technologies I have worked with:
