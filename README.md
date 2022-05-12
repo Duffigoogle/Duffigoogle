@@ -4,7 +4,8 @@
 ## Intro.
   - Ini D. Duff <Caleb/> aka Duffigoogle is a genial dude who loves the creative process of turning beautiful ideas to valued-products, and as well as creating value in the tech ecosystem by volunteering and contributing to open source development. 
 
-## My short brief
+
+## My brief
 
 - 🔭 I’m currently working on ... a project called TRAV
 - 🌱 I’m currently learning ... C, Solidity and Web3.
