@@ -2,18 +2,17 @@
 <br />
 
 ## Intro.
-  - Ini D. Duff <Caleb/> aka Duffigoogle is a genial dude who loves the creative process of turning beautiful ideas to valued-products, and as well as creating value in the tech ecosystem by volunteering and contributing to open source development. 
+  - Ini D. Duff <Caleb/> aka Duffigoogle is a digital nomad, a curious soul & a genial dude who loves and enjoys the creative process of turning beautiful ideas to valued-products, as well as creating value in the tech ecosystem by volunteering and contributing to open source development. 
 
 
 ## My brief
 
 - 😄 Pronouns: ... He/Him
-- 🔭 I’m currently working on ... a project called CodeSchoolBus & TRAV.
-- 🌱 I’m currently learning ... C, Python, Web3.
+- 🌱 I’m currently learning ... Web3.
 - 👯 I’m looking to collaborate on ... Creative and solution-based projects.
-- 🔭 I'm a member of **Google Developer Group (GDG)** and am open to work.
-- 🤔 I’m looking for help with ... A smooth pathway into the Global Tech Community.
-- 💬 Ask me about ... Frontend Web Development, Web3, DApps. 
+- 🔭 I'm a member of **Google Developer Group (GDG)** and I am open to work.
+- 🔭 I'm the Programs Lead for the Techrity Mentorship Project. 
+- 💬 Ask me about ... Software Engineering, Tech Mentorship, Web3, DApps. 
 <br>
 <br>
 <br>
@@ -21,7 +20,7 @@
 
 ⚡ Fun facts: ... 
 * &nbsp;&nbsp;&nbsp;&nbsp; ```I try to leave every bit of code I touch more readable, modular, performant and accessible than I found it.```*
-* &nbsp;&nbsp;&nbsp;&nbsp; ```I love wine, good music, arts, travelling and goodvibes.``` 
+* &nbsp;&nbsp;&nbsp;&nbsp; ```I love wine, good music, arts, traveling and enjoying goodvibes.``` 
 * &nbsp;&nbsp;&nbsp;&nbsp; ```I am probably TheLastGoodMan. #TLGM``` 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/duffcaleb/)
