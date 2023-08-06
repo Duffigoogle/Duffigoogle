@@ -24,7 +24,7 @@
 * &nbsp;&nbsp;&nbsp;&nbsp; ```I am probably TheLastGoodMan. #TLGM``` 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/duffcaleb/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://http://duffigoogle-techfolio.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://duffigoogle-techfolio.vercel.app/)
 
 
 ### 🛠 Tools, Technologies and Frameworks I have worked with:
